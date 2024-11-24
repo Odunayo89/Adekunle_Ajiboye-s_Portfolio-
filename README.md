@@ -11,8 +11,8 @@ Get $100 on first purchase
 
 Get $25 on first purchase
 
-The Superstore Giant is seeking your knowledge in identifying which customers should get what offer as this requires understanding the customers' buying behaviors. You have been provided access to the customer transaction database contained in the Superstore.csv file and asked to provide valuable insights into customer behavior by grouping customers into different segments based on their buying behavior and loyalty to the business.
+The Superstore Giant is seeking our knowledge in identifying which customers should get what offer as this requires understanding the customers' buying behaviors. I have been provided access to the customer transaction database contained in the Superstore.csv file and asked to provide valuable insights into customer behavior by grouping customers into different segments based on their buying behavior and loyalty to the business.
 
-To help guide your analysis, perform a value-based customer segmentation analysis (also known as RFM Segmentation) using customers' transaction histories to group the customer base into different value segments. The final output of your analysis should be a table containing customer Ids, customer value segment and your cash reward recommendation.
+In other to solve this problem, I have performed a value-based customer segmentation analysis (also known as RFM Segmentation) using customers' transaction histories to group the customer base into different value segments. The final output of my analysis is a table containing customer Ids, customer value segment and the cash reward recommendation.
 
-As part of your effort to support the marketing team in the personalization of promotional offers, consider a predictive analytics approach which takes into account the total expected profit from a customer in the value ranking. The marketing team would like to know how much profit could be expected from each customer in the next one year of transactions
+As part of my effort to support the marketing team in the personalization of promotional offers, I have also developed a predictive analytics model which takes into account  the total expected profit from a customer in the value ranking. The model provide to the marketing team  how much profit could be expected from each customer in the next one year of transactions
