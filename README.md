@@ -22,42 +22,42 @@ As part of my effort to support the marketing team in the personalization of pro
 
 Below provides the description of columns contained in the Superstore.csv dataset.
 
-Order ID: Unique Order ID for each Customer.
+1. Order ID: Unique Order ID for each Customer.
 
-Order Date: Order Date of the product.
+2. Order Date: Order Date of the product.
 
-Ship Date: Shipping Date of the Product.
+3. Ship Date: Shipping Date of the Product.
 
-Ship Mode: Shipping Mode specified by the Customer.
+4. Ship Mode: Shipping Mode specified by the Customer.
 
-Customer ID: Unique ID to identify each Customer.
+5. Customer ID: Unique ID to identify each Customer.
 
-Customer Name: Name of the Customer.
+6. Customer Name: Name of the Customer.
 
-Segment: The segment where the Customer belongs.
+7. Segment: The segment where the Customer belongs.
 
-Country: Country of residence of the Customer.
+8. Country: Country of residence of the Customer.
 
-City: City of residence of the Customer.
+9. City: City of residence of the Customer.
 
-State: State of residence of the Customer.
+10. State: State of residence of the Customer.
 
-Postal Code: Postal Code of every Customer.
+11. Postal Code: Postal Code of every Customer.
 
-Region: Region where the Customer belongs.
+12. Region: Region where the Customer belongs.
 
-Product ID: Unique ID of the Product.
+13. Product ID: Unique ID of the Product.
 
-Category: Category of the product ordered.
+14. Category: Category of the product ordered.
 
-Sub-Category: Sub-Category of the product ordered.
+15. Sub-Category: Sub-Category of the product ordered.
 
-Product Name: Name of the Product.
+16. Product Name: Name of the Product.
 
-Sales: Sales of the Product.
+17. Sales: Sales of the Product.
 
-Quantity: Quantity of the Product.
+18. Quantity: Quantity of the Product.
 
-Discount: Discount provided.
+19. Discount: Discount provided.
 
-Profit: Profit/Loss incurred.
+20. Profit: Profit/Loss incurred.
