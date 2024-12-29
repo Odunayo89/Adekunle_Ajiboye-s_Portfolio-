@@ -59,7 +59,8 @@ Below provides the description of columns contained in the Superstore.csv datase
 
 20. Profit: Profit/Loss incurred.
 
-# Project 2: Fitness Tracker Dataset
+# Project 2: Fitness Tracker Dataset[gym_members_exercise_tracking_synthetic_data.csv](https://github.com/user-attachments/files/18270463/gym_members_exercise_tracking_synthetic_data.csv)
+
 
 ## About Dataset
 The Fitness Tracker Dataset contains detailed information about individuals' fitness metrics, exercise routines, and health parameters. This dataset is designed to provide insights into fitness trends, workout habits, and overall health patterns. It is ideal for exploratory data analysis (EDA), machine learning applications, and health analytics. The dataset can help identify relationships between physical activity, body metrics, and health outcomes.
