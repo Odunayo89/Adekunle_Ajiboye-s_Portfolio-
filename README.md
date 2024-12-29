@@ -59,7 +59,8 @@ Below provides the description of columns contained in the Superstore.csv datase
 
 20. Profit: Profit/Loss incurred.
 
-# Project 2: Fitness Tracker Dataset[gym_members_exercise_tracking_synthetic_data.csv](https://github.com/user-attachments/files/18270463/gym_members_exercise_tracking_synthetic_data.csv)
+# Project 2: Fitness Tracker Dataset                                      
+[gym_members_exercise_tracking_synthetic_data.csv](https://github.com/user-attachments/files/18270463/gym_members_exercise_tracking_synthetic_data.csv)
 
 
 ## About Dataset
