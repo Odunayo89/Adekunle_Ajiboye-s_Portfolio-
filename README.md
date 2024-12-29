@@ -17,7 +17,6 @@ As part of my effort to support the marketing team in the personalization of pro
 
 
 ### Dataset Overview
-
 Below provides the description of columns contained in the Superstore.csv dataset.
 
 1. Order ID: Unique Order ID for each Customer.
@@ -59,3 +58,43 @@ Below provides the description of columns contained in the Superstore.csv datase
 19. Discount: Discount provided.
 
 20. Profit: Profit/Loss incurred.
+
+# Project 2: Fitness Tracker Dataset
+
+## About Dataset
+The Fitness Tracker Dataset contains detailed information about individuals' fitness metrics, exercise routines, and health parameters. This dataset is designed to provide insights into fitness trends, workout habits, and overall health patterns. It is ideal for exploratory data analysis (EDA), machine learning applications, and health analytics. The dataset can help identify relationships between physical activity, body metrics, and health outcomes.
+Features:
+Age: Age of the individual in years.
+Gender:Gender of the individual (e.g., Male, Female).
+Weight (kg): Weight of the individual in kilograms.
+Height (m): Height of the individual in meters.
+Max_BPM:Maximum heartbeats per minute recorded during exercise.
+Avg_BPM: Average heartbeats per minute during a workout session.
+Resting_BPM:Resting heartbeats per minute.
+Session_Duration (hours):Duration of the workout session in hours.
+Calories_Burned:Total calories burned during a workout session.
+Workout_Type:Type of workout performed (e.g., Cardio, Strength, Yoga).
+Fat_Percentage:Percentage of body fat.
+Water_Intake (liters):Water intake in liters during or after the workout.
+Workout_Frequency (days/week): Number of days per week the individual exercises.
+Experience_Level:Level of fitness experience (e.g., Beginner, Intermediate, Advanced).
+BMI:Body Mass Index, calculated as weight (kg) / height (m)^2.
+
+### Usage:
+This dataset is suitable for:
+
+Analyzing the impact of fitness routines on health metrics.
+Exploring trends in heart rate, calorie burn, and workout habits.
+Correlating body metrics like BMI and fat percentage with exercise patterns.
+Building predictive models for fitness and health analytics.
+This is a synthetic dataset created for educational and analytical purposes and does not represent real-world data
+### What I did
+I analyzed the impact of fitness routines on health metrics by exploring how variables like workout frequency and session duration influence outcomes such as calories burned and BMI. Trends in heart rate variability, calorie burn, and workout habits were examined using visualizations like pair plots and heatmaps, which helped uncover patterns and outliers. I also investigated the correlation between body metrics, such as BMI and fat percentage, with exercise patterns to better understand their relationships. To build predictive analytics, I developed a Random Forest Regression model to estimate calories burned based on features like BMI, session duration, and workout frequency. The model’s performance was evaluated using Mean Absolute Error (MAE). It is important to note that this project used a synthetic dataset created for educational purposes, which does not represent real-world data but serves as a practical tool for demonstrating data analysis and machine learning techniques.
+
+
+
+
+
+
+
+
