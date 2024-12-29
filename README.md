@@ -1,3 +1,5 @@
+[clean_superstore.csv](https://github.com/user-attachments/files/18270061/clean_superstore.csv)
+[Superstore.csv](https://github.com/user-attachments/files/18270060/Superstore.csv)
 # Project 1: Finding_valuable_customers
 With growing demands and cut-throat competitions in the market, a Superstore Giant would like to design a customer loyalty program that strengthens its relationship with its' customers and incentivizes repeat purchases. The objective of the loyalty program is to increase customer retention and drive incremental sales by targeting customers with personalized promotional offers. The company's marketing manager has proposed to implement a tier-based marketing campaign where customers are offered cash rewards as incentives towards their first purchase following enrollment into the loyalty program. The proposed cash reward offers are as follows:
 
