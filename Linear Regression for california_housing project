@@ -1,0 +1,28 @@
+#The California Housing dataset is a well-known dataset used for regression tasks, especially in machine learning. 
+It was originally derived from the 1990 U.S. Census data and is often used to predict housing prices in different districts of California.
+
+
+
+## Overview of the California Housing Dataset
+Purpose: Predict the median house value for California districts.
+Target Variable: median_house_value (continuous variable in USD).
+Number of Instances: 20,640 rows (districts).
+Number of Features: 8 predictive features + 1 target variable
+
+###Features in the Dataset
+Feature Name	Description
+MedInc	Median income in the district (in tens of thousands of dollars).
+HouseAge	Median age of the houses in the district.
+AveRooms	Average number of rooms per household.
+AveBedrms	Average number of bedrooms per household.
+Population	Total population of the district.
+AveOccup	Average number of occupants per household.
+Latitude	Geographical coordinate (north-south position).
+Longitude	Geographical coordinate (east-west position).
+median_house_value	(Target Variable) Median house price in the district (in USD).
+
+####Project Overview
+Implemented Linear Regression using scikit-learn to model housing prices.
+Explored and preprocessed the dataset to handle missing values and feature scaling.
+Evaluated model performance using R², Mean Absolute Error (MAE), and Root Mean Squared Error (RMSE).
+Visualized key relationships between features and house prices.
